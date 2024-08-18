@@ -4,7 +4,7 @@ This repository contains the code and data for our project on analyzing the infl
 
 ## Project Structure
 
-- Data: this folder should focus on 2 datasets:
+- **Data**: this folder should focus on 2 datasets:
   - `full_music_data.csv`: This dataset includes 16 variable entries for 98,340 songs. These variables include attributes like danceability, tempo, loudness, key, and artist information (name, id, etc.).
   - `influence_data.csv`: This dataset covers musical features for 5,854 artists spanning the last 90 years. It provides both influencing artists and their respective followers.
 
@@ -17,5 +17,5 @@ This repository contains the code and data for our project on analyzing the infl
 ## Dependencies
 To run the code in this repository, you will need the following Python packages:
 - Python 3.7 or higher
-- `tensorflow`
+- tensorflow
 - Other dependencies as listed in individual scripts
